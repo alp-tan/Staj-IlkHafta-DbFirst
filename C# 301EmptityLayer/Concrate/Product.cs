@@ -1,0 +1,24 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace C__301EmptityLayer.Concrate
+{
+    public class Product
+    {
+        public int ProductId { get; set; }
+        public string ProductName { get; set; }
+        public int Productstock { get; set; }
+        public int ProductPrize { get; set; }
+        public string ProductDescription { get; set; }
+        public int CategoryId { get; set; }
+        public virtual Category Category { get; set; }
+
+        public List<Order> Orders { get; set; }
+
+
+
+    }
+}

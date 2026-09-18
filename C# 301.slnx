@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="C# 301 BusinesLayer/C# 301 BusinesLayer.csproj" Id="8ab7b9bf-629a-4e6b-b230-8e497f018bd5" />
+  <Project Path="C# 301 DataAccesLayer/C# 301 DataAccesLayer.csproj" Id="494a58f0-7b19-4d33-8723-4fc88b341b1a" />
+  <Project Path="C# 301 EFramework/C# 301 EFramework.csproj" Id="47e1622a-eba0-4917-8237-db727f1ac109" />
+  <Project Path="C# 301 PresentationLayer/C# 301 PresentationLayer.csproj" Id="5194084f-e09a-45ab-b986-679452e1bb90" />
+  <Project Path="C# 301EmptityLayer/C# 301EntityLayer.csproj" Id="6fc1e30f-ce34-42e9-9be1-596138555df3" />
+</Solution>
